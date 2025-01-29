@@ -32,6 +32,16 @@
 
 <br clear="both">
 
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">I am a Computer Science student with a strong foundation in Front-End Web Development, 5 months of experience, proficient in C++, HTML, CSS, JavaScript, React.js, Next.js, PHP, Databases (MYSQL), Data Structures, OOP (Java), done Front-End UI projects, excels at solving problems and handling complex challenges. My strong communication skills and ability to work with cross-functional teams help me deliver high-quality solutions. I am passionate about continuous learning.</p>
+
+###
+
+<br clear="both">
+
 <img align="right" height="150" src="https://camo.githubusercontent.com/2d2e17803356d0bb44f8e2db6e313154e7a921822ac923427f66db18f7d512e2/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6d6c6e634778776358466b4e4859306554597964576c6b626d5a32616e4e784d6a637a6332343461444231615739745a6a6b784d535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f333977465465485236343234506a7738544f2f67697068792e77656270"  />
 
 ###
